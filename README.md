@@ -1,4 +1,4 @@
-<h2> Hello world 👋, I'm kise </h2>
+<h2> Hey 👋, I'm kise </h2>
 
 <h3> 🔎 About Me </h3>
 
